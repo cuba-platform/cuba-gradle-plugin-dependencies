@@ -1,0 +1,1 @@
+# cuba-gradle-plugin-dependencies
